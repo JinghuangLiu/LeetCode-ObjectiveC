@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DE0EF6EA24221F9B001A2642 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0EF6E924221F9B001A2642 /* main.m */; };
-		DE0EF6F224221FDA001A2642 /* Solution.m in Sources */ = {isa = PBXBuildFile; fileRef = DE0EF6F124221FDA001A2642 /* Solution.m */; };
+		DE4AF25A24224D7A00822DD2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DE4AF25924224D7A00822DD2 /* main.m */; };
+		DE4AF26224224DC900822DD2 /* Solution.m in Sources */ = {isa = PBXBuildFile; fileRef = DE4AF26124224DC900822DD2 /* Solution.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		DE0EF6E424221F9B001A2642 /* CopyFiles */ = {
+		DE4AF25424224D7A00822DD2 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -24,14 +24,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		DE0EF6E624221F9B001A2642 /* 0007-ReverseInteger */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "0007-ReverseInteger"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DE0EF6E924221F9B001A2642 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DE0EF6F024221FDA001A2642 /* Solution.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Solution.h; sourceTree = "<group>"; };
-		DE0EF6F124221FDA001A2642 /* Solution.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Solution.m; sourceTree = "<group>"; };
+		DE4AF25624224D7A00822DD2 /* 0009-PalindromeNumber */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "0009-PalindromeNumber"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE4AF25924224D7A00822DD2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DE4AF26024224DC900822DD2 /* Solution.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Solution.h; sourceTree = "<group>"; };
+		DE4AF26124224DC900822DD2 /* Solution.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Solution.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DE0EF6E324221F9B001A2642 /* Frameworks */ = {
+		DE4AF25324224D7A00822DD2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,67 +41,67 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DE0EF6DD24221F9B001A2642 = {
+		DE4AF24D24224D7A00822DD2 = {
 			isa = PBXGroup;
 			children = (
-				DE0EF6E824221F9B001A2642 /* 0007-ReverseInteger */,
-				DE0EF6E724221F9B001A2642 /* Products */,
+				DE4AF25824224D7A00822DD2 /* 0009-PalindromeNumber */,
+				DE4AF25724224D7A00822DD2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DE0EF6E724221F9B001A2642 /* Products */ = {
+		DE4AF25724224D7A00822DD2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DE0EF6E624221F9B001A2642 /* 0007-ReverseInteger */,
+				DE4AF25624224D7A00822DD2 /* 0009-PalindromeNumber */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DE0EF6E824221F9B001A2642 /* 0007-ReverseInteger */ = {
+		DE4AF25824224D7A00822DD2 /* 0009-PalindromeNumber */ = {
 			isa = PBXGroup;
 			children = (
-				DE0EF6E924221F9B001A2642 /* main.m */,
-				DE0EF6F024221FDA001A2642 /* Solution.h */,
-				DE0EF6F124221FDA001A2642 /* Solution.m */,
+				DE4AF25924224D7A00822DD2 /* main.m */,
+				DE4AF26024224DC900822DD2 /* Solution.h */,
+				DE4AF26124224DC900822DD2 /* Solution.m */,
 			);
-			path = "0007-ReverseInteger";
+			path = "0009-PalindromeNumber";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DE0EF6E524221F9B001A2642 /* 0007-ReverseInteger */ = {
+		DE4AF25524224D7A00822DD2 /* 0009-PalindromeNumber */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DE0EF6ED24221F9B001A2642 /* Build configuration list for PBXNativeTarget "0007-ReverseInteger" */;
+			buildConfigurationList = DE4AF25D24224D7A00822DD2 /* Build configuration list for PBXNativeTarget "0009-PalindromeNumber" */;
 			buildPhases = (
-				DE0EF6E224221F9B001A2642 /* Sources */,
-				DE0EF6E324221F9B001A2642 /* Frameworks */,
-				DE0EF6E424221F9B001A2642 /* CopyFiles */,
+				DE4AF25224224D7A00822DD2 /* Sources */,
+				DE4AF25324224D7A00822DD2 /* Frameworks */,
+				DE4AF25424224D7A00822DD2 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "0007-ReverseInteger";
-			productName = "0007-ReverseInteger";
-			productReference = DE0EF6E624221F9B001A2642 /* 0007-ReverseInteger */;
+			name = "0009-PalindromeNumber";
+			productName = "0009-PalindromeNumber";
+			productReference = DE4AF25624224D7A00822DD2 /* 0009-PalindromeNumber */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DE0EF6DE24221F9B001A2642 /* Project object */ = {
+		DE4AF24E24224D7A00822DD2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1120;
 				ORGANIZATIONNAME = liujinghuang;
 				TargetAttributes = {
-					DE0EF6E524221F9B001A2642 = {
+					DE4AF25524224D7A00822DD2 = {
 						CreatedOnToolsVersion = 11.2.1;
 					};
 				};
 			};
-			buildConfigurationList = DE0EF6E124221F9B001A2642 /* Build configuration list for PBXProject "0007-ReverseInteger" */;
+			buildConfigurationList = DE4AF25124224D7A00822DD2 /* Build configuration list for PBXProject "0009-PalindromeNumber" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,30 +109,30 @@
 				en,
 				Base,
 			);
-			mainGroup = DE0EF6DD24221F9B001A2642;
-			productRefGroup = DE0EF6E724221F9B001A2642 /* Products */;
+			mainGroup = DE4AF24D24224D7A00822DD2;
+			productRefGroup = DE4AF25724224D7A00822DD2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DE0EF6E524221F9B001A2642 /* 0007-ReverseInteger */,
+				DE4AF25524224D7A00822DD2 /* 0009-PalindromeNumber */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DE0EF6E224221F9B001A2642 /* Sources */ = {
+		DE4AF25224224D7A00822DD2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DE0EF6F224221FDA001A2642 /* Solution.m in Sources */,
-				DE0EF6EA24221F9B001A2642 /* main.m in Sources */,
+				DE4AF26224224DC900822DD2 /* Solution.m in Sources */,
+				DE4AF25A24224D7A00822DD2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		DE0EF6EB24221F9B001A2642 /* Debug */ = {
+		DE4AF25B24224D7A00822DD2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -190,7 +190,7 @@
 			};
 			name = Debug;
 		};
-		DE0EF6EC24221F9B001A2642 /* Release */ = {
+		DE4AF25C24224D7A00822DD2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -241,7 +241,7 @@
 			};
 			name = Release;
 		};
-		DE0EF6EE24221F9B001A2642 /* Debug */ = {
+		DE4AF25E24224D7A00822DD2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -251,7 +251,7 @@
 			};
 			name = Debug;
 		};
-		DE0EF6EF24221F9B001A2642 /* Release */ = {
+		DE4AF25F24224D7A00822DD2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -264,25 +264,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DE0EF6E124221F9B001A2642 /* Build configuration list for PBXProject "0007-ReverseInteger" */ = {
+		DE4AF25124224D7A00822DD2 /* Build configuration list for PBXProject "0009-PalindromeNumber" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DE0EF6EB24221F9B001A2642 /* Debug */,
-				DE0EF6EC24221F9B001A2642 /* Release */,
+				DE4AF25B24224D7A00822DD2 /* Debug */,
+				DE4AF25C24224D7A00822DD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DE0EF6ED24221F9B001A2642 /* Build configuration list for PBXNativeTarget "0007-ReverseInteger" */ = {
+		DE4AF25D24224D7A00822DD2 /* Build configuration list for PBXNativeTarget "0009-PalindromeNumber" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DE0EF6EE24221F9B001A2642 /* Debug */,
-				DE0EF6EF24221F9B001A2642 /* Release */,
+				DE4AF25E24224D7A00822DD2 /* Debug */,
+				DE4AF25F24224D7A00822DD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DE0EF6DE24221F9B001A2642 /* Project object */;
+	rootObject = DE4AF24E24224D7A00822DD2 /* Project object */;
 }

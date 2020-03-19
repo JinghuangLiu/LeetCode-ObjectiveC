@@ -7,4 +7,7 @@
    <FileRef
       location = "group:0007-ReverseInteger/0007-ReverseInteger.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:0009-PalindromeNumber/0009-PalindromeNumber.xcodeproj">
+   </FileRef>
 </Workspace>
